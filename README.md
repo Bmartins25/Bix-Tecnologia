@@ -5,7 +5,7 @@ Este script inclui:
 
 * Carregamento dos Dados
 * Pré-processamento dos Dados
-*Seleção de Variáveis
+* Seleção de Variáveis
 * Treinamento e Avaliação de Modelos
 * Explicabilidade do Modelo
 * Otimização de Hiperparâmetros
