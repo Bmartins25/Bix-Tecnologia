@@ -8,6 +8,6 @@ Etapas estipuladas:
 * Pré-processamento dos Dados
 * Seleção de Variáveis
 * Treinamento de modelos
-* Avaliação de Modelos (Parei aqui)
+* Avaliação de Modelos -- > (Parei aqui)
 * Otimização de Hiperparâmetros
 * Avaliação do Impacto Financeiro
